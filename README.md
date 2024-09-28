@@ -1,9 +1,11 @@
 # Fun-Algodes
 
-INTRODUCTION TO ALGORITHMS
+INTRODUCTION TO ALGORITHMS-Fun projects
+
+
 
 1- Greedy algorithms:
-project: 
+
 
 A more basic yet fun project could be creating a "Anime Convention Schedule Planner" using a greedy algorithm!
 
