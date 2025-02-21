@@ -1,4 +1,4 @@
-# Algodes: Interactive Algorithm Learning Through Games
+# Algodes_Python: Interactive Algorithm Learning Through Games
 
 This repository contains three interactive games that teach fundamental algorithms through engaging visualizations and gameplay. Each game is designed to demonstrate a specific algorithmic concept while providing an enjoyable learning experience.
 
@@ -22,8 +22,8 @@ Optimize your loot collection in a dungeon by solving the classic knapsack probl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/blacktpearl/algodes.git
-cd algodes
+git clone https://github.com/BlacktPearl/Algodes/Algodes_Python.git
+cd Algodes_Python
 ```
 
 2. Create a virtual environment (recommended):
@@ -58,7 +58,7 @@ python dungeon_loot/main.py
 
 ## Project Structure
 ```
-algodes/
+Algodes_Python/
 ├── common/             # Common utilities and shared components
 ├── treasure_hunt/      # Closest Pair visualization game
 ├── delivery_rush/      # Minimizing Lateness visualization game
