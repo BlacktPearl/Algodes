@@ -13,7 +13,7 @@ import pygame_gui
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from common.game_base import GameBase
-from common.viz_utils import create_tooltip, draw_progress_bar
+from common.viz_utils import create_tooltip
 from closest_pair import Point, VisualizationState, closest_pair_recursive, brute_force
 
 def create_treasure_surface(size):

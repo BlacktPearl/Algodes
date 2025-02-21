@@ -13,11 +13,11 @@ import pygame_gui
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from common.game_base import GameBase
-from common.viz_utils import create_tooltip, draw_progress_bar
+from common.viz_utils import create_tooltip
 from scheduler import (
     Task, TaskType, VisualizationState, schedule_tasks,
     get_task_color, get_default_processing_time,
-    get_default_deadline_range, get_task_description
+    get_default_deadline_range
 )
 
 class TaskCreationDialog:
